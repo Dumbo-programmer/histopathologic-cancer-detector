@@ -1,4 +1,4 @@
-# Histopathologic Cancer Detection [Genovision]
+# Histopathologic Cancer Detection
 ## Training
 **You can view the training process in more detail in the "Histopathological Cancer Detection - training" notebook.**
 
